@@ -1,0 +1,6 @@
+﻿/.idea/
+/.vs/
+/src/AreaLib/bin/
+/src/AreaLib/obj/
+/test/AreaLib.Unit/bin/
+/test/AreaLib.Unit/obj/
